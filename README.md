@@ -26,16 +26,15 @@ const GonzaloLlatser = {
 
 ### Un poco sobre mí
 
-Soy Gonzalo, argentino de nacimiento y del 🌐 mundo por opción. Actualmente vivo en📍**Valencia, España**.
+Soy Gonzalo, argentino de nacimiento y ciudadano del 🌐 mundo por elección. Actualmente resido en 📍Valencia, España.
 
-Tras muchos años estudiando y trabajando en finanzas 📉. Un día la programación llego a mi vida y me enamoró (💘"amor a primer clic"💻)
+Tras muchos años dedicados al estudio y trabajo en el campo de las finanzas 📉, un día la programación llegó a mi vida y me cautivó (💘 "amor a primera línea de código" 💻).
 
-Desde entonces me encuentro estudiando la FPGS **"Desarrollo de Aplicaciones Web"** y tras haber cursado dos Bootcamp ✔️ y muchos 📹 cursos online. Puedo considerarme un apasionado de la programación, de sus desafíos, retos y de lo mágico 🌈 de este mundillo.
+Desde entonces, me encuentro inmerso en el estudio de la FPGS "Desarrollo de Aplicaciones Web". Además, he completado dos Bootcamps ✔️ y participado en numerosos 📹 cursos en línea. Puedo considerarme un apasionado de la programación, disfruto de sus desafíos, retos y de la magia 🌈 que envuelve a este fascinante mundo.
 
-Te invito a conocer mis proyectos, y si tienes algún consejo, 💯 no dudes en compartirlo conmigo.
-🚀 En estos proyectos podrás observar mi conocimiento sobre los diferentes lenguajes, herramientas y librerías.
+Te invito a explorar mis proyectos, y si tienes algún consejo, 💯 no dudes en compartirlo conmigo. 🚀 En estos proyectos, podrás observar mi dominio de diversos lenguajes, herramientas y librerías.
 
-Saludos Dev's.
+Saludos a todos los desarrolladores. ¡Hagamos código juntos!
 
 
 
